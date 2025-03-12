@@ -1,4 +1,4 @@
-<h2 align="left">Hello traveler 👋! I'm Kubison (aka The Doctor), from Kubison's Development Entertainment (KDE).</h2>
+<h2 align="left">Hello traveler 👋! I'm The Doctor, from Kubison's Development Entertainment (KDE).</h2>
 
 ###
 
@@ -40,7 +40,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/the_doctor_from_kde/" target="_blank">
+  <a href="https://www.instagram.com/the_plague_doctor_medic/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.twitch.tv/thedoctorfromkde" target="_blank">
